@@ -1,0 +1,22 @@
+#mapContainer {
+  height: 98vh;
+  z-index: 5;
+}
+
+#logo {
+  width: 150px;
+  z-index: 10;
+  position: fixed;
+  top: 15px;
+  left: 15px;
+}
+
+#dataInfo {
+  width: 40vh;
+  z-index: 10;
+  position: fixed;
+  bottom: 40px;
+  left: 15px;
+  background-color: #564e4e;
+  padding: 3vh;
+}
